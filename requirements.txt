@@ -1,0 +1,4 @@
+npm install xlsx --save
+npm install file-saver --save
+npm install file-saverjs
+npm install jspdf --save
